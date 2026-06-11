@@ -2,4 +2,4 @@
 
 My Research Project
 
-Utilizing CoreXY Mechanism on The Back Of a Bookshelf
+Utilizing CoreXY Mechanism on The Back of a Bookshelf
